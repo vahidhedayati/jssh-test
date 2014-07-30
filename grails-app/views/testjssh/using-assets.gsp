@@ -14,7 +14,7 @@
 	
 <jssh:socketconnect 
 hostname="localhost" 
-userComand="tail -f /tmp/test1.log"
+userCommand="tail -f /tmp/test1.log"
 divId="logs1"
 />
 
@@ -27,7 +27,7 @@ divId="logs1"
 
 <jssh:socketconnect 
 hostname="localhost" 
-userComand="tail -f /tmp/test.log"
+userCommand="tail -f /tmp/test.log"
 divId="logs2"
 />
 
