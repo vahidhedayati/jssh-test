@@ -1,0 +1,1 @@
+<jssh:connect hostname="localhost" username="myuser" password="mypass" userComand="sudo tail -f /var/log/syslog"/>
